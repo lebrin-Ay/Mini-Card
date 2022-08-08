@@ -20,7 +20,7 @@
 
 ### Links
 
-- Live Site URL: [Vercel](https://simple-portfolio-mocha.vercel.app/)
+- Live Site URL: [Vercel](https://mini-card-lebrin-ay.vercel.app/)
 
 
 ### Built with
